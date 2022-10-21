@@ -1,0 +1,17 @@
+body { 
+    background-color: rgb(236, 5, 159);
+} h1 { color : rgb(12, 231, 247); 
+  }
+  h2 { color :rgb(12, 231, 247); }
+  p { color :rgb(12, 231, 247); } 
+  .v {color : black; } 
+  a {color :rgb(12, 231, 247) ; } 
+  .l {
+    background-color : orange;
+    width: 1000px; height: 2000em;
+ }
+  .a {
+    background-color : red;
+    width: 300px ; 
+    height: 700px;
+}
